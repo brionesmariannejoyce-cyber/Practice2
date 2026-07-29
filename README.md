@@ -1,5 +1,3 @@
-# Practice2
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -28,23 +26,47 @@
         </ul>
 <article id="art-fight">
     <h3>Art Fight</h3>
-      <p>Each contestant can participate for the fight of art. There would be three teams:<nav><a href="#the-hawkins">The Hawkins</a>,<a href="#the-jellos">The Jellos</a>         and <a href="#the-armadillos">The Armadillos</a></nav> Who ever team wins get a special limited prize.</p>
-<section id="Show-off-your-art">
+      <p>Each contestant can participate for the fight of art. There would be three teams:<nav><a href="#the-hawkins">The Hawkins</a>,<a href="#the-jellos">The Jellos</a>         and <a href="#the-armadillos">The Armadillos</a></nav><br> Who ever team wins get a special limited prize.</p>
+      </article>
+
+<article id="Show-off-your-art">
   <h3>Show off you art</h3>
     <p>Get a chance to show off your art to the world. Every scroll of everyones art gets a balance and equal algorithm to be seen. Be able to promote your art and open up       commission. This event would have agency looking up for your art.Who knows you might be pick and be able to have a job. </p>
-  </section>
+  </article>
+
+  <h2>The Teams</h2>
   <section id="the-hawkins">
-      <h4>The Hawkins</h4>
+      <h4 style="color: red;">The Hawkins</h4>
           <p><strong>Be the best of the best</strong> of the other team.You aim high.You are the hawk that is flying ready to attack.</p>
   </section>
   <section id="the-jellos">
-        <h4>The Jellos</h4>
+        <h4 style="color: green;">The Jellos</h4>
+        <p>You are just a silly Jello that is having fun but can put up a fight to people attacking your team.</P>
+        </section>
+    <section id="the-armadillos">
+        <h4 style="color: brown;">The Armadillos</h4>
+        <p>You are that one introvert that keeps hiding but after a few days being dead you just so happen to post something majestic</p>
+        </section>            
+    
+<section id="past-events">
+    <h2>Past Events</h2>
+    <p>We had so much memories for the past few months.We achieve so much.</p>
+    <article>
+        <h3>Art Trade</h3>
+    <p>Enjoy collaboration between each other</p>
+    <figure>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="old computer">
+        <figurecaption>Just a computer</figurecaption>
+    </figure>
+    </article>
+
+    <article>
+        <
+            
+
         
             
-        </article>
-        
-            
-    <section>
+    
     </header>
 <body>
 
